@@ -5,7 +5,11 @@
 
 - 🔭 I’m currently working on **ECOMMERCE WEBSITE**
 
+- 🌱 I’m currently learning **Full Stack (MERN)**
+
 - 📫 How to reach me **varunshanagapati1@gmail.com**
+
+- 📄 Know about my experiences [Varun_Shanagapati](https://drive.google.com/file/d/1oHPw-19L_nN3QpZP7Qp7Bi_iVlJ4ZOAK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
