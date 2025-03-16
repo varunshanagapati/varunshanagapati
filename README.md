@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varun Shanagapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunshanagapati&label=Profile%20views&color=0e75b6&style=flat" alt="varunshanagapati" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3fBVaRM2c79TtXbyi6/giphy.gif?cid=ecf05e47ikz1draz9ehs19sqz36rzl1rh50v61jn9tnpd0ii&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **ECOMMERCE WEBSITE**
